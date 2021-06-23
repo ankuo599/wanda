@@ -1,0 +1,25 @@
+{
+  "name": "Wanda Token",
+  "logoURI": "https://twitter.com/KB6ai/status/1407704972058267654/photo/1",
+  "keywords": [
+      "Wanda Token",
+      "WANDA",
+      "wanda"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1603784021F77B7c756feeb27F0Af1134A765B2C",
+      "name": "Wanda Token",
+      "symbol": "WANDA",
+      "decimals": 8,
+      "logoURI": "https://twitter.com/KB6ai/status/1407704972058267654/photo/1"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
